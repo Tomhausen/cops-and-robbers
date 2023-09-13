@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "guard"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spotted"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
